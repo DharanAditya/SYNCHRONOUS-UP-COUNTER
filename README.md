@@ -43,9 +43,9 @@ However, the remaining flip-flops should be made ready to toggle only when all l
 
 **PROGRAM**
 
-Developed by:SUBASH E
+Developed by: DHARAN ADITYA S
 
-RegisterNumber:212223040209
+RegisterNumber:212223040035
 
 ```
 module ex11(out,clk,rstn);
